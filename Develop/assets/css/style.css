@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header for website */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,27 +16,32 @@ body {
     color: #ffffff;
 }
 
+/* Header's text for website */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Header's text for website, adds color to "seo" */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Sizing and placement of Header's content */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
+/* Header's list style */
 .header div ul {
     list-style-type: none;
 }
 
+/* Placement and display of Header's list content */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
