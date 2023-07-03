@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header for website */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,27 +16,32 @@ body {
     color: #ffffff;
 }
 
+/* Header's text for website */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Header's text for website, adds color to "seo" */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Sizing and placement of Header's content */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
+/* Header's list style */
 .header div ul {
     list-style-type: none;
 }
 
+/* Placement and display of Header's list content */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* Specs for the "hero" class */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +66,26 @@ p {
     background-position: center;
 }
 
+/* Floats search engine and social media marketing to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Floats online reputation management to the right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Sets content display */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Display rules for benefit-lead, benefit-brand, and benefit-cost  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,7 +93,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
@@ -138,7 +149,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -147,7 +158,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -156,7 +167,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -191,7 +202,7 @@ p {
 .footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
     text-align: center;
 }
 
