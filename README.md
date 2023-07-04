@@ -16,6 +16,12 @@ Readme Template was copied from Vanderbilt Bootcamp Prework Module 3.5.3
 Source code pulled from GitLab
 [https://github.com/coding-boot-camp/urban-octo-telegram.git]
 
+## Application
+
+<img
+src="./Develop/assets/images/2023-07-04.png"
+alt="Picture of Horiseon's website"
+/>
 
 ## Usage
 
