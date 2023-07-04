@@ -20,7 +20,7 @@ Source code pulled from GitLab
 ## Usage
 
 <img
-src="./Develop/assets/images/2023-07-04.png"
+src="./Develop/assets/images/horiseon-site"
 alt="Picture of Horiseon's website"
 />
 
