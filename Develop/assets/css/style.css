@@ -78,6 +78,7 @@ p {
     margin-left: 25px;
 }
 
+/* Sets content display */
 .content {
     width: 75%;
     display: inline-block;
