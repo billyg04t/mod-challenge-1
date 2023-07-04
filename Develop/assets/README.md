@@ -25,7 +25,7 @@ alt="Picture of Horiseon's website"
 />
 
 Link to website:
-[file:///C:/Users/shaun/bootcamp/challenges/mod-challenge-1/Develop/index.html]
+[https://billyg04t.github.io/mod-challenge-1/]
 
 
 ## License
