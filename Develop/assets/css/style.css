@@ -56,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* Specs for the "hero" class */
 .hero {
     height: 800px;
     width: 100%;
@@ -65,11 +66,13 @@ p {
     background-position: center;
 }
 
+/* Floats search engine and social media marketing to the left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Floats online reputation management to the right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -81,6 +84,7 @@ p {
     margin-left: 20px;
 }
 
+/* Display rules for benefit-lead, benefit-brand, and benefit-cost  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
