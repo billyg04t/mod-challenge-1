@@ -23,7 +23,19 @@ src="./Develop/assets/images/2023-07-04.png"
 alt="Picture of Horiseon's website"
 />
 
+## Usage
+
+<img
+src="./Develop/assets/images/horiseon-site.png"
+alt="Picture of Horiseon's website"
+/>
+
+Link to website:
+[file:///C:/Users/shaun/bootcamp/challenges/mod-challenge-1/Develop/index.html]
+
+
 ## License
+
 
 MIT License
 
