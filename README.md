@@ -17,7 +17,7 @@ Source code pulled from GitLab
 [https://github.com/coding-boot-camp/urban-octo-telegram.git]
 
 
-## Application
+## Usage
 
 <img
 src="./Develop/assets/images/2023-07-04.png"
