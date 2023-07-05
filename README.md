@@ -25,7 +25,7 @@ alt="Picture of Horiseon's website"
 />
 
 Link to website:
-[https://billyg04t.github.io/mod-challenge-1/]
+[https://billyg04t.github.io/mod-challenge-1/] 
 
 
 ## License
