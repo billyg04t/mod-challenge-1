@@ -16,6 +16,8 @@ Readme Template was copied from Vanderbilt Bootcamp Prework Module 3.5.3
 Source code pulled from GitLab
 [https://github.com/coding-boot-camp/urban-octo-telegram.git]
 
+Base element learned through Stack Overflow
+[https://stackoverflow.com/questions/17371785/defining-root-of-html-in-a-folder-within-the-site-root-folder]
 
 ## Usage
 
